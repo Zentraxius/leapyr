@@ -1,10 +1,32 @@
 # Application Name
 
+Leap Year Checker!
+
 #### Brief description of application, Date of current version
 
-#### By Cody Fritz,
+Check for leap year, 6/10/2020
+
+#### By Cody Fritz, Deryck Jackson
 
 ## Description
+
+Determine if the input number would be a leap year by going through the following specs:
+
+The program should return when a year is not a leap year.
+Input Example: 1993
+Output Example: false
+
+The program should return 'true' for years divisible by 4, since those are leap years.
+Input Example: 2004
+Output Example: true
+
+The program should return 'false' for years divisible by 100, since those are not leap years.
+Input Example: 1900
+Output Example: false
+
+The program should return 'true' for years divisible by 400, since those are leap years.
+Input Example: 2000
+Output Example: true
 
 ## Setup/Installation Requirements
 
@@ -32,4 +54,4 @@ Bootstrap | jQuery
 
 MIT
 
-Copyright (c) 2016 **Cody Fritz**
+Copyright (c) 2016 **Cody Fritz, Deryck Jackson**
